@@ -1,0 +1,47 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-default {
+	background: rgba(0, 0, 0, 0.2);
+	border-color: transparent;
+}
+.navbar-default .navbar-brand {
+	color: white;
+	padding-left: 45px;
+	font-size: 20px;
+	opacity: 1;
+}
+.navbar-default .navbar-nav > li > a {
+	color: white;
+	padding-right: 45px;
+}
+
+header {
+	height: 700px;
+	width: 100%;
+	background-image: url(../img/fotos/122.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%; 
+}
+/* Seção de Home ============================== */
+.home-intro{
+  text-align: center;
+  font-family: 'Chau Philomene One', sans-serif;
+  color: yellow;
+  padding-top: 200px;
+  margin-top: -30px;
+}
+.home-intro h1{
+  font-size: 90px;
+  line-height: 1.1;
+  color: inherit;
+}
+.home-intro h1{
+  font-size: 25px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.cont-numeros {
+  padding-top: 80px;
+  padding-bottom: 100px;
+}

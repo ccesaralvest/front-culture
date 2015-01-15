@@ -1,0 +1,293 @@
+body {
+	background-color: #f9f9f9; 
+	font-family: 'Open Sans', sans-serif;
+}
+
+header {
+	margin-top: 80px;
+}
+.navbar-default {
+	background-color: #3686BE;
+	border-color: 	;
+	
+}
+.navbar-default .navbar-brand {
+	color: white;
+	padding-left: 45px;
+	font-size: 20px;
+}
+.navbar-default .navbar-nav > li > a {
+	color: white;
+	padding-right: 45px;
+}
+
+/* Todas as barras*/
+.alert-dif {
+	padding: 10px;
+	margin-bottom: 3px;
+	background-color: #3686BE;
+	color: white;
+}
+
+.img-user {
+	width: 170px;
+	margin-top: 10px;
+}
+.cx-user {
+	padding: 10px;
+	background-image: url(../img/back.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 130px;
+}
+.cx-user h4 {
+	margin-top: 8px;
+	margin-bottom: 0px;
+	color: #08548A;
+}
+
+.media {
+	padding: 5px;
+	padding-bottom: 0px;
+}
+.media .img-perfil-post {
+	width: 50px;
+}
+
+.cx-user-post h4 {
+	margin-bottom: 0px;
+	color: #08548A;
+}
+
+.post {
+	margin-top: 0px;
+	font-size: 13px;
+}
+.post h4 {
+	color: #08548A;
+}
+
+.img-post {
+	width: 100%;
+	padding-bottom: 15px;
+}
+
+.vagas .list-group-item {
+	padding: 0px;
+	padding-bottom: 4px;
+	font-size: 12px;	
+}
+.vagas h4 {
+	font-size: 14px;
+}
+
+.eventos h4 {
+	font-size: 14px;
+}
+
+.eventos .list-group-item {
+	padding: 0px;
+	padding-bottom: 4px;
+	font-size: 12px;
+}
+
+.img-rede {
+	width: 60px;
+}
+
+.list-group-item a {
+	text-decoration: none;
+	color: black;
+}
+.list-group {
+	margin-bottom: 10px;
+
+}
+
+.media img {
+  width: 70px;
+}
+
+.media-body {
+  padding-top: 15px;
+}
+
+
+/*List */
+td p{
+  margin-top: 25px;
+}
+
+thead i{ 
+  color: gray;
+}
+
+#startup {
+  padding-left: 110px;
+}
+
+tbody tr:hover {
+  background-color: #eaeaea;
+}
+
+.container-user {
+	background-color: white;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 5px;
+	border: solid 1px #e5e5e5;
+	margin-bottom: 15px;
+}
+
+
+.media .ment {
+	padding: 1px;
+}
+
+.media a {
+	text-decoration: none;
+}
+.media .media-heading {
+	color: black;
+}
+
+/* ------------------------------ Page Startup ----------------------------- */
+
+/* ------------------------------ Box Startup ----------------------------- */
+.box-startup {
+	height: 370px;
+}
+.box-startup img{
+	width: 200px;
+	margin-top: 10px;
+}
+.box-startup h1 {
+	font-size: 20px;
+}
+.box-startup h2 {
+	font-size: 16px;
+	margin-top: 7px;
+}
+.box-startup button {
+	margin-bottom: 10px;
+}
+
+/* ------------------------------ End Page Startup ----------------------------- */
+
+/*  Nav */
+.container-user .nav-tabs {
+	padding-top: 12px;
+}
+/*  End Nav */
+.members img {
+	margin-top: 30px;
+}
+
+.pad {
+	margin-top: 70px;
+}
+.list li{
+  text-decoration: none;
+  list-style: none;
+}
+
+.list li .min {
+  font-size: 12px;
+}
+.list ul {
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+.list img {
+  width: 70px;
+}
+
+/* Advice */
+.advice h1 {
+	padding-bottom: 15px;
+}
+.box-adv h2{
+	padding-top: 15px;
+}
+
+.box-adv {
+	background-color: #DCE6F2;
+}
+
+
+.box-basic-data h1 {
+	font-size: 20px;
+}
+
+.box-basic-data ul {
+	list-style: none;
+	margin-left: 1px;
+	padding: 10px;
+}
+
+.container-user .cover-startup {
+	margin-top: 15px;
+}
+
+.box-data h1{
+	font-size: 20px;
+}
+.box-data h2{
+	font-size: 16px;
+	margin-top: 7px;
+}
+.box-data .icons {
+	padding-left: 5px;
+	padding-top: 5px;
+}
+.box-data {
+	border: solid 1px #e5e5e5;
+	margin-top: 10px; 
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-bottom: 20px;
+}
+
+.youtube {
+	padding-top: 10px;
+}
+
+/* Pagina Empreendedor */
+.information h1{
+	font-size: 20px;
+}
+
+
+
+/* Section Photos*/
+#photo img {
+	width: 300px;	
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+
+#photo ul li {
+	list-style: none;
+}
+
+
+
+/* Section Plan*/
+
+#plan ul li {
+	list-style: none;
+}
+
+#plan h2 {
+	padding-top: 20px;
+}
+#plan ul {
+	padding-left: 0px;
+	margin-left: 0px;
+}
+
+
+
+
+
