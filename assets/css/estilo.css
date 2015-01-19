@@ -150,9 +150,8 @@ tbody tr:hover {
 	color: black;
 }
 
-/* ------------------------------ Page Startup ----------------------------- */
+/* Page Startup */
 
-/* ------------------------------ Box Startup ----------------------------- */
 .box-startup {
 	height: 370px;
 }
@@ -171,7 +170,7 @@ tbody tr:hover {
 	margin-bottom: 10px;
 }
 
-/* ------------------------------ End Page Startup ----------------------------- */
+/* End Page Startup */
 
 /*  Nav */
 .container-user .nav-tabs {
@@ -265,7 +264,6 @@ tbody tr:hover {
 	margin-top: 20px;
 	margin-bottom: 10px;
 }
-
 
 #photo ul li {
 	list-style: none;
