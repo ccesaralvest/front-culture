@@ -257,7 +257,7 @@ tbody tr:hover {
 }
 
 
-
+/* Pagina Coworking */
 /* Section Photos*/
 #photo img {
 	width: 300px;	
@@ -286,6 +286,8 @@ tbody tr:hover {
 }
 
 
+/* section contact*/
 
-
-
+.cont-cow button {
+	margin-top: 15px;
+}
