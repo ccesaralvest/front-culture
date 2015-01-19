@@ -287,7 +287,25 @@ tbody tr:hover {
 
 
 /* section contact*/
-
 .cont-cow button {
 	margin-top: 15px;
 }
+
+/* pagina de eventos */
+/* section contact*/
+.box-event {
+	border: solid 1px #e5e5e5;
+	background-image: url(../img/back.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 130px;
+	padding-top: 130px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-radius: 5px;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+.alert-event {
+	margin-top: 10px;
+}
+
